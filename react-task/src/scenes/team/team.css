@@ -1,0 +1,31 @@
+.students{
+    display:inline-flexbox;
+    width: max-content;
+    height: fit-content;
+    margin: 20px;
+}
+
+h1{
+    margin-left: 5px;
+}
+
+td{
+    align-items: center;
+}
+table{
+   
+    height: 60vh;
+}
+
+
+.add{
+    
+    border: none;
+    background-color: #e9a847;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+
+}
